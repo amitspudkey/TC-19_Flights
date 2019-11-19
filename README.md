@@ -4,6 +4,8 @@
 Data and instructions for the conference session is located at https://www.kaggle.com/neelybd/tc19-adding-ai-to-your-bi.
 
 
+# Below is the original lab instructions from the session.
+
 # Adding AI to your BI, C I Can Do it Too!
 ## Hands-on with Keyence’s KI AI
 
